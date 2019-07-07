@@ -1,0 +1,51 @@
+.container-fluid{
+	//background-color:#f00;
+	margin-top:30px;
+}
+.tb{
+	line-height:60px;
+	font-size:20px;
+	color:#7c6aa6;
+}
+.lxfs{
+	font-size:15px;
+	color:#000;
+	font-weight:bold;
+}
+.xia{
+	color:#555;
+	font-size:13px;
+}
+.xiad{
+	margin-top:10px;
+}
+.header .col-md-1 div{
+	text-align:center;
+	line-height:40px;
+	font-size:18px;
+	color:#7c6aa6;
+	width:100px;
+	height:40px;
+	border:1px #7c6aa6 solid;
+	margin-top:10px;
+	border-radius:2px;
+}
+.header .col-md-1 div a{
+	display:block;
+	height:100%;
+	width:100%;
+}
+.header .col-md-1 div a:hover{
+	text-decoration:none;
+	color:#fff;
+	background-color:#7c6aa6;
+}
+
+
+
+
+
+
+
+
+
